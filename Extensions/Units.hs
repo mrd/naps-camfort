@@ -41,7 +41,6 @@ import Extensions.UnitsSolve -- Solvers for the Gaussian matrix
 
 import Language.Fortran
 import Language.Fortran.Pretty
-import Language.Haskell.Syntax (SrcLoc(..))
 import Transformation.Syntax
 
 -- For debugging and development purposes

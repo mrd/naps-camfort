@@ -29,7 +29,6 @@ import Analysis.IntermediateReps
 import Traverse
 import Language.Fortran
 
-import Language.Haskell.Syntax (SrcLoc(..))
 
 
 -- * Comparison and ordering
